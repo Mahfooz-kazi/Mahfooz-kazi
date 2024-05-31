@@ -62,7 +62,7 @@
   <!-- Icons for languages and tools -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&theme=dark" alt=Mahfooz-kazi"Mahfooz-kazi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahfooz-kazi&show_icons=true&locale=en&layout=compact&theme=dark" alt=Mahfooz-kazi"Mahfooz-kazi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahfooz-kazi&show_icons=true&locale=en&theme=dark" alt=""Mahfooz-kazi /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfooz-kazi&theme=dark" alt="Mahfooz-kazi" /></p>
