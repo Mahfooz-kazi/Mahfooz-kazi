@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahfooz+Kazi!;" />
 </h1>
 
-<a href="https://app.daily.dev/Mahfooz-kazi"><img src="https://api.daily.dev/devcards/v2/z6YKfBhUdNLL8e1bkjOxg.png?type=default&r=f1h" width="356" alt="Mahfooz-kazi Dev Card"/></a>
 
 <h3 align="center">A passionate AI/ML enthusiast </h3>
 
