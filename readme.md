@@ -13,7 +13,7 @@
 <!-- Inserting GitHub Profile Trophy -->
 <p align="center">
   <a href="https://github.com/Mahfooz-kazii/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GhulamMurtazaKazi&theme=darkhub&no-bg=true" alt="Mahfooz-kazi trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahfooz-kazi&theme=darkhub&no-bg=true" alt="Mahfooz-kazi trophies" />
   </a>
 </p>
 
