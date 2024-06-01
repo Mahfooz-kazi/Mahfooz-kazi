@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **C,Python amd manymore**
 
-💬 Ask me about **C,C++,python,HTML,CSS,java,javascript... or anything [here](https://github.com/Mahfooz-kazi/Mahfooz-kazi/issues)**
+💬 Ask me about **C,C++,python,HTML,CSS... or anything [here](https://github.com/Mahfooz-kazi/Mahfooz-kazi/issues)**
 
 ⚡ Fun fact  Did you know that the first computer “bug” was actually a real insect? In 1947, Grace Hopper, a computer scientist, found a moth trapped in a relay of the Harvard Mark II computer. She taped the moth to her logbook and wrote, “First actual case of a bug being found.” Since then, the term “debugging” has been used to describe the process of fixing software issues. 🐛👩‍💻
 
